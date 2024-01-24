@@ -12,6 +12,8 @@
     justify-content: space-around;
     align-items: center;
     padding: 25px;
+    width: 100%;
+    height: 1000px;
 }
 ul{
     display: flex;
