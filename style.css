@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 611px;
+    height: 16px;
+}
+h1{
+    color: #34547A;
+    font-family: Revalia;
+    font-size: 48px;
+    font-weight: 400;
+}
+li{
+    color: #000;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+}
+.header button{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Roboto;
+    width: 100px;
+    color: #34547A;
+    background: none;
+    border: 1px solid black;
+}
+.img img{
+    width: 250px;
+    height: 150px;
+}
+.subject{
+    display: flex;
+    padding: 150px;
+    justify-content: space-between;
+}
+.h2 p{
+    padding: 25px 0;
+    color: #727272;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+}
+.h2 h2{
+    color: #000;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+}
+.h2 button{
+    width: 180px;
+    height: 45px;
+    background: #34547A;
+    color: white;
+    border: none;
+    font-family: Roboto;
+    font-weight: 100;
+    font-size: 15px;
+}
+footer{
+    background:#34547A;
+    width: 100%;
+    height: 170px;
+}
+.name{
+    padding: 50px 150px
+}
+.name p{
+    padding: 20px 0;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+}
+.name h3{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+}
